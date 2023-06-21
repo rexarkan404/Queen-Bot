@@ -1,6 +1,6 @@
 {
-  "name": "QUEEN-BOT",
-  "description": "[QUEEN-BOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": " ARKAN-UBOT",
+  "description": "[ARKAN-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/queenkarina/Queen-Bot",
-  "telegram": "https://t.me/geezsupportgroup",
-  "success_url": "https://t.me/ootspambot",
+  "repository": "https://github.com/rexxarkan404/ARKAN-UBOT",
+  "telegram": "https://t.me/arkanneora",
+  "success_url": "https://t.me/siniiibae",
   "stack": "container",
   "env": {
     "API_KEY": {
