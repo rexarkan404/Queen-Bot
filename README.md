@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/forks/queenkarina/Queen-Bot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/rexxarkan404/ARKAN-UBOT">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
