@@ -1,6 +1,6 @@
 FROM ramadhani892/ramutod:slim-buster
 
-RUN git clone -b Queen-Bot https://github.com/queenkarina/Queen-Bot /root/userbot
+RUN git clone -b Queen-Bot https://github.com/rexxarkan404/ARKAN-UBOT /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
